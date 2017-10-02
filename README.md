@@ -13,6 +13,6 @@ which located in **MultipleApp/main**, **MultipleApp/sub-one**, **MultipleApp/su
 3. ````npm run build-all````
 4. ````dotnet run````
 5. Open ````http://localhost:52440```` in a browser.
-  1. **MultipleApp/main**: ````http://localhost:52440````
-  2. **MultipleApp/sub-one**: ````http://localhost:52440/sub-one````
-  3. **MultipleApp/sub-two**: ````http://localhost:52440/sub-two````
+    1. **MultipleApp/main**: ````http://localhost:52440````
+    2. **MultipleApp/sub-one**: ````http://localhost:52440/sub-one````
+    3. **MultipleApp/sub-two**: ````http://localhost:52440/sub-two````
