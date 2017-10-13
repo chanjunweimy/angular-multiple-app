@@ -17,3 +17,6 @@ which located in **MultipleApp/main**, **MultipleApp/sub-one**, **MultipleApp/su
     1. **MultipleApp/main**: ````http://localhost:52440````
     2. **MultipleApp/sub-one**: ````http://localhost:52440/sub-one````
     3. **MultipleApp/sub-two**: ````http://localhost:52440/sub-two````
+    
+### Implementation of the concept
+The concept is implemented in [abp_plugin_with_ui](https://github.com/chanjunweimy/abp_plugin_with_ui). Feel free to give comment! Thanks!
