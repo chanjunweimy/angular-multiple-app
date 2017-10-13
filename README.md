@@ -1,5 +1,7 @@
 # angular-multiple-app
 
+**I HAVE IMPLEMENTED THE CONCEPT HERE: [abp_plugin_with_ui](https://github.com/chanjunweimy/abp_plugin_with_ui)**
+
 This repository contains of a **ASP.net Core 2.0 Web application project** and three angular applications, 
 which located in **MultipleApp/main**, **MultipleApp/sub-one**, **MultipleApp/sub-two**.
 
